@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>  
+<title>    Northrop Grumman Online Training Catalog  </title>
+<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+<!--<style type="text/css"> 
+div.title{         
+width:1000px;    
+height: 300px; 
+<!--margin:15px auto;-->    
+<!-- background-color:#D1E4E2; 
+color:#000000;     
+padding: 10px 10px 10px 10px;  
+font-weight:bold;       
+} 
+div.login     
+{       
+width:200px; 
+height: 100\px;
+<!--margin:15px auto;-->  
+<!-- background-color:#D1E4E2; 
+border:1px solid #006633;  
+color:#000000;  
+padding: 10px 10px 10px 10px;  
+font-weight:bold;      
+} 
+<!--</style>-->
+</head>
+<!---------------------------------------------------------------------->
+<body>
+    <h1><img src ="C:\Users\J74507\Pictures/logo.png"     
+    alt="NGC Main Page"/><!--make clickable(back to HP)-->
+    </h1>
+    <h2> Welcome to the Northrop Grumman Online Training Catalog    </h2>
+   <left>   
+   <div class="login">     
+   <p style="font-size:25px;"> Login </p>
+   <p style="font-size:25px;"> Register </p>    
+   </div>       
+   </left>   
+   <left>       
+   <div class="login">       
+   <p> CONTACT US</p>      
+   <a href = "http://www.northropgrumman.com/ContactUs/Pages/default.aspx" target="_blank"/>  
+   <right>         
+   <div class="inner">       
+   <p>Northrop Grumman Corporation</p>     
+   <p>2980 Fairview Park Drive</p>          
+   <p>Falls Church, VA 22042</p>     
+   </div>     
+   </right>  
+   </div>    
+   </left>
+   </body>
+</html>
